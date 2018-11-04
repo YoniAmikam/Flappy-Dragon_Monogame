@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>c:/users/admin/documents/visual studio 2013/Projects/FlappyDragon/FlappyDragon/Content/Effects/PipeHit.wav</SourceFile>
+  <SourceTime>2015-05-23T18:45:54+03:00</SourceTime>
+  <DestFile>c:/users/admin/documents/visual studio 2013/Projects/FlappyDragon/FlappyDragon/Content/bin/Windows/Content/Effects/PipeHit.xnb</DestFile>
+  <DestTime>2018-11-04T00:54:07.3942257+02:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-09-24T00:55:52+03:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-09-24T00:55:52+03:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
